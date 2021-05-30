@@ -1,0 +1,35 @@
+C:\Users\dwiky\source\repos\MUB\obj\Debug\MUB.Form1.resources
+C:\Users\dwiky\source\repos\MUB\obj\Debug\MUB.menuberanda.resources
+C:\Users\dwiky\source\repos\MUB\obj\Debug\MUB.Properties.Resources.resources
+C:\Users\dwiky\source\repos\MUB\obj\Debug\MUB.csproj.GenerateResource.cache
+C:\Users\dwiky\source\repos\MUB\obj\Debug\MUB.csproj.CoreCompileInputs.cache
+C:\Users\dwiky\source\repos\MUB\obj\Debug\MUB.login.resources
+C:\Users\dwiky\source\repos\MUB\obj\Debug\MUB.MenuHasilSkor.resources
+C:\Users\dwiky\source\repos\MUB\obj\Debug\MUB.MenuJadwal.resources
+C:\Users\dwiky\source\repos\MUB\obj\Debug\MUB.MenuProfile.resources
+C:\Users\dwiky\source\repos\MUB\bin\Debug\Mobile Battleground Blitz.exe.config
+C:\Users\dwiky\source\repos\MUB\bin\Debug\Mobile Battleground Blitz.exe
+C:\Users\dwiky\source\repos\MUB\bin\Debug\Mobile Battleground Blitz.pdb
+C:\Users\dwiky\source\repos\MUB\obj\Debug\Mobile Battleground Blitz.exe
+C:\Users\dwiky\source\repos\MUB\obj\Debug\Mobile Battleground Blitz.pdb
+C:\Users\dwiky\source\repos\MUB\obj\Debug\MUB.csprojAssemblyReference.cache
+C:\Users\fazar\Downloads\MUB\bin\Debug\Mobile Battleground Blitz.exe.config
+C:\Users\fazar\Downloads\MUB\bin\Debug\Mobile Battleground Blitz.exe
+C:\Users\fazar\Downloads\MUB\bin\Debug\Mobile Battleground Blitz.pdb
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.Form1.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.login.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.menuberanda.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.MenuHasilSkor.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.MenuJadwal.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.MenuProfile.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.Properties.Resources.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.csproj.GenerateResource.cache
+C:\Users\fazar\Downloads\MUB\obj\Debug\Mobile Battleground Blitz.exe
+C:\Users\fazar\Downloads\MUB\obj\Debug\Mobile Battleground Blitz.pdb
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.Form2.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.panitiaberanda.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.panitiajadwal.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.panitiaklasemen.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.panitiadata.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.panitiaakun.resources
+C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.csprojAssemblyReference.cache
