@@ -33,3 +33,24 @@ C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.panitiaklasemen.resources
 C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.panitiadata.resources
 C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.panitiaakun.resources
 C:\Users\fazar\Downloads\MUB\obj\Debug\MUB.csprojAssemblyReference.cache
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\bin\Debug\Mobile Battleground Blitz.exe.config
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\bin\Debug\Mobile Battleground Blitz.exe
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\bin\Debug\Mobile Battleground Blitz.pdb
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.csprojAssemblyReference.cache
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.Form1.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.Form2.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.login.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.menuberanda.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.MenuHasilSkor.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.MenuJadwal.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.MenuProfile.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.panitiaakun.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.panitiaberanda.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.panitiadata.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.panitiajadwal.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.panitiaklasemen.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.Properties.Resources.resources
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.csproj.GenerateResource.cache
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\MUB.csproj.CoreCompileInputs.cache
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\Mobile Battleground Blitz.exe
+C:\Users\dwiky\Documents\Code\MUB\Mobile-Underground-Blitz\obj\Debug\Mobile Battleground Blitz.pdb
